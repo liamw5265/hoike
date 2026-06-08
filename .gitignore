@@ -1,0 +1,8 @@
+# Training, Validation, and Testing Data
+data/
+
+# Personal Notes
+*.txt
+
+# API Keys
+*.env
